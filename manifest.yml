@@ -1,0 +1,6 @@
+---
+applications:
+- name: hmt-cycling
+  memory: 32M
+  instances: 1
+  buildpack: staticfile_buildpack
